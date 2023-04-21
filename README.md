@@ -23,3 +23,4 @@ Le programme permet à l'utilisateur de :
 4. Cliquez sur le bouton *Exécuter* pour lancer le programme.
 
 
+![Capture d’écran du 2023-04-21 16-07-02](https://user-images.githubusercontent.com/44653107/233657040-43eab448-e032-4027-a1c3-13fac35b9360.png)
